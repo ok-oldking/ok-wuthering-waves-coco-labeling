@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "boss_check_mark_minimap",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          364.981296860686,
+          169.06058129041753
+        ],
+        [
+          387.6239192532315,
+          169.06058129041753
+        ],
+        [
+          387.6239192532315,
+          190.9712074625113
+        ],
+        [
+          364.981296860686,
+          190.9712074625113
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "lib_ready_fire",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3653.587810294641,
+          741.981157950834
+        ],
+        [
+          3677.214370609705,
+          741.981157950834
+        ],
+        [
+          3677.214370609705,
+          761.2146027370301
+        ],
+        [
+          3653.587810294641,
+          761.2146027370301
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "mouse_forte",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2317.653526536677,
+          1973.690290460564
+        ],
+        [
+          2354.9408965737543,
+          1973.690290460564
+        ],
+        [
+          2354.9408965737543,
+          2025.9538540610736
+        ],
+        [
+          2317.653526536677,
+          2025.9538540610736
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "bd335009-BitBlt_True_3840x2160_1749722822145.009_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

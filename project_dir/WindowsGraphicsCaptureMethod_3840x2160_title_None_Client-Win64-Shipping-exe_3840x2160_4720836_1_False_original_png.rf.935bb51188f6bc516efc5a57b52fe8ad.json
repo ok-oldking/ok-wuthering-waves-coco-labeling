@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gray_book_boss",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          77.00000000000001,
+          533.0
+        ],
+        [
+          228.67000000000002,
+          533.0
+        ],
+        [
+          228.67000000000002,
+          686.33
+        ],
+        [
+          77.00000000000001,
+          686.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "gray_book_all_monsters",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          79.64601769911505,
+          1070.442477876106
+        ],
+        [
+          235.75221238938056,
+          1070.442477876106
+        ],
+        [
+          235.75221238938056,
+          1229.7345132743362
+        ],
+        [
+          79.64601769911505,
+          1229.7345132743362
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "gray_book_quest",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          76.12334801762114,
+          266.431718061674
+        ],
+        [
+          225.19823788546256,
+          266.431718061674
+        ],
+        [
+          225.19823788546256,
+          425.02202643171813
+        ],
+        [
+          76.12334801762114,
+          425.02202643171813
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shipping-exe_3840x2160_4720836_1_False_original_png.rf.935bb51188f6bc516efc5a57b52fe8ad.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

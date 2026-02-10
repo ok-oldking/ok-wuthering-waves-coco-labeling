@@ -1,0 +1,226 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "edge_levitator",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3014.6677604593906,
+          1886.923707957341
+        ],
+        [
+          3096.570959803115,
+          1886.923707957341
+        ],
+        [
+          3096.570959803115,
+          1968.8269073010665
+        ],
+        [
+          3014.6677604593906,
+          1968.8269073010665
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_target_enemy_inner",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2884.0705044509145,
+          1936.149167167292
+        ],
+        [
+          2910.941401840014,
+          1936.149167167292
+        ],
+        [
+          2910.941401840014,
+          1959.1108368734526
+        ],
+        [
+          2884.0705044509145,
+          1959.1108368734526
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_target_enemy",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2866.9310800611797,
+          1913.094495964899
+        ],
+        [
+          2931.952054726156,
+          1913.094495964899
+        ],
+        [
+          2931.952054726156,
+          1979.08978284562
+        ],
+        [
+          2866.9310800611797,
+          1979.08978284562
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_target_mouse",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2876.0623461853975,
+          1984.577522559475
+        ],
+        [
+          2923.3141919606232,
+          1984.577522559475
+        ],
+        [
+          2923.3141919606232,
+          2034.9794913863825
+        ],
+        [
+          2876.0623461853975,
+          2034.9794913863825
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_liberation",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3572.239540607056,
+          1877.473338802295
+        ],
+        [
+          3698.2444626743236,
+          1877.473338802295
+        ],
+        [
+          3698.2444626743236,
+          1990.8777686628375
+        ],
+        [
+          3572.239540607056,
+          1990.8777686628375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_echo",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3370.631665299426,
+          1877.4733388022973
+        ],
+        [
+          3506.0869565217376,
+          1877.4733388022973
+        ],
+        [
+          3506.0869565217376,
+          1994.0278917145208
+        ],
+        [
+          3370.631665299426,
+          1994.0278917145208
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_resonance",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3184.774405250205,
+          1877.4733388022973
+        ],
+        [
+          3320.229696472518,
+          1877.4733388022973
+        ],
+        [
+          3320.229696472518,
+          1990.877768662839
+        ],
+        [
+          3184.774405250205,
+          1990.877768662839
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "has_target",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2867.8352865881966,
+          1917.2275231460344
+        ],
+        [
+          2929.0822892247343,
+          1917.2275231460344
+        ],
+        [
+          2929.0822892247343,
+          1975.4397189697127
+        ],
+        [
+          2867.8352865881966,
+          1975.4397189697127
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "57d8d801-BitBlt_True_3840x2160_1759986393607.1733_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

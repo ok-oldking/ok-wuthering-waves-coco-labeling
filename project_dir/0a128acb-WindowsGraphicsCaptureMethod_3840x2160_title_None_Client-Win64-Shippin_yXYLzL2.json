@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "login_account",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3567.136929460579,
+          1187.5518672199169
+        ],
+        [
+          3697.0954356846482,
+          1187.5518672199169
+        ],
+        [
+          3697.0954356846482,
+          1290.622406639004
+        ],
+        [
+          3567.136929460579,
+          1290.622406639004
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "0a128acb-WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shippin_yXYLzL2.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

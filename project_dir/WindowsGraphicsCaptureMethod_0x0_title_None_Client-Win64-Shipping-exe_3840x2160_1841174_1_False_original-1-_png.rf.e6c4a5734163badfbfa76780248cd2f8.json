@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target_enemy_white",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1688.0,
+          983.0
+        ],
+        [
+          1711.42,
+          983.0
+        ],
+        [
+          1711.42,
+          1006.25
+        ],
+        [
+          1688.0,
+          1006.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_0x0_title_None_Client-Win64-Shipping-exe_3840x2160_1841174_1_False_original-1-_png.rf.e6c4a5734163badfbfa76780248cd2f8.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

@@ -1,0 +1,145 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_1_text",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3474.0,
+          427.0
+        ],
+        [
+          3500.0,
+          427.0
+        ],
+        [
+          3500.0,
+          458.0
+        ],
+        [
+          3474.0,
+          458.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_concerto_last_dot",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2169.0,
+          1996.0
+        ],
+        [
+          2173.0,
+          1996.0
+        ],
+        [
+          2173.0,
+          2008.0
+        ],
+        [
+          2169.0,
+          2008.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_verina",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3534.0,
+          745.0
+        ],
+        [
+          3604.0,
+          745.0
+        ],
+        [
+          3604.0,
+          802.0
+        ],
+        [
+          3534.0,
+          802.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_yinlin",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3541.0,
+          485.0
+        ],
+        [
+          3609.0,
+          485.0
+        ],
+        [
+          3609.0,
+          535.0
+        ],
+        [
+          3541.0,
+          535.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_taoqi",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3541.0,
+          977.0
+        ],
+        [
+          3615.0,
+          977.0
+        ],
+        [
+          3615.0,
+          1048.0
+        ],
+        [
+          3541.0,
+          1048.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "9f04db98-16_20_58_825243_WindowsGraphicsCaptureMethod_3840x2160_title_None_Clie_VuLpBVc_png.rf.a16ce4854c42840f44a6c0a04d44c83c.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

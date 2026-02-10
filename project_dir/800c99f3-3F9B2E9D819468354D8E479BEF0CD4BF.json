@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "lib_cartethyia_big",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3591.5547758326893,
+          1887.9712401148645
+        ],
+        [
+          3679.5547361115405,
+          1887.9712401148645
+        ],
+        [
+          3679.5547361115405,
+          1971.7660186054175
+        ],
+        [
+          3591.5547758326893,
+          1971.7660186054175
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "800c99f3-3F9B2E9D819468354D8E479BEF0CD4BF.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

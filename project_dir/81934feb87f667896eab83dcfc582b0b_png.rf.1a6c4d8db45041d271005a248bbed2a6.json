@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_zhezhi",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3542.0,
+          723.0
+        ],
+        [
+          3622.0,
+          723.0
+        ],
+        [
+          3622.0,
+          807.64
+        ],
+        [
+          3542.0,
+          807.64
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_rover_male",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3552.0,
+          978.9999999999999
+        ],
+        [
+          3622.36,
+          978.9999999999999
+        ],
+        [
+          3622.36,
+          1054.0
+        ],
+        [
+          3552.0,
+          1054.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "81934feb87f667896eab83dcfc582b0b_png.rf.1a6c4d8db45041d271005a248bbed2a6.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

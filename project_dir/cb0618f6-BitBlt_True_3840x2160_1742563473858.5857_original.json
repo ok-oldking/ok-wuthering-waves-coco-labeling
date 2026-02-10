@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "echo_enhance_to",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          450.3964757709253,
+          358.4140969162997
+        ],
+        [
+          504.3171806167403,
+          358.4140969162997
+        ],
+        [
+          504.3171806167403,
+          418.6784140969164
+        ],
+        [
+          450.3964757709253,
+          418.6784140969164
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "cb0618f6-BitBlt_True_3840x2160_1742563473858.5857_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

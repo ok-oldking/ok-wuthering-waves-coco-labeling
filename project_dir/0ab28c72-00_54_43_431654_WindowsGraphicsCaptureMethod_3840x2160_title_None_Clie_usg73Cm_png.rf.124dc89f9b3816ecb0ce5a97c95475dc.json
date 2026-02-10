@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gray_teleport",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2589.0,
+          1897.0
+        ],
+        [
+          2831.0,
+          1897.0
+        ],
+        [
+          2831.0,
+          2107.0
+        ],
+        [
+          2589.0,
+          2107.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "0ab28c72-00_54_43_431654_WindowsGraphicsCaptureMethod_3840x2160_title_None_Clie_usg73Cm_png.rf.124dc89f9b3816ecb0ce5a97c95475dc.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

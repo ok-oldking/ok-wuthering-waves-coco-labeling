@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_jianxin",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3554.0,
+          734.0
+        ],
+        [
+          3630.0,
+          734.0
+        ],
+        [
+          3630.0,
+          794.0
+        ],
+        [
+          3554.0,
+          794.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_sanhua",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3534.0,
+          1004.0
+        ],
+        [
+          3609.0,
+          1004.0
+        ],
+        [
+          3609.0,
+          1046.0
+        ],
+        [
+          3534.0,
+          1046.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_encore",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3541.0,
+          477.0
+        ],
+        [
+          3613.0,
+          477.0
+        ],
+        [
+          3613.0,
+          525.0
+        ],
+        [
+          3541.0,
+          525.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "221458a6-13_25_04_962031_WindowsGraphicsCaptureMethod_3840x2160_title_None_Clie_XYXLS23_png.rf.281b46703c1e3f6bd436750f6aa82cf2.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

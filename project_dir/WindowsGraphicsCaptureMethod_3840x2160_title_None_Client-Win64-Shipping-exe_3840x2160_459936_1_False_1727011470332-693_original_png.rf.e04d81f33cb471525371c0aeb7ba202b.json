@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "purple_target_distance_icon",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2090.0,
+          867.0000000000001
+        ],
+        [
+          2171.92,
+          867.0000000000001
+        ],
+        [
+          2171.92,
+          947.9600000000002
+        ],
+        [
+          2090.0,
+          947.9600000000002
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "illusive_realm_exit",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          29.0,
+          63.0
+        ],
+        [
+          107.46,
+          63.0
+        ],
+        [
+          107.46,
+          148.57999999999998
+        ],
+        [
+          29.0,
+          148.57999999999998
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "illusive_realm_menu",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          217.0,
+          69.99999999999999
+        ],
+        [
+          281.02,
+          69.99999999999999
+        ],
+        [
+          281.02,
+          141.45
+        ],
+        [
+          217.0,
+          141.45
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shipping-exe_3840x2160_459936_1_False_1727011470332-693_original_png.rf.e04d81f33cb471525371c0aeb7ba202b.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

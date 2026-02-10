@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gray_button_challenge",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2413.0000000000005,
+          1859.0
+        ],
+        [
+          2623.0000000000005,
+          1859.0
+        ],
+        [
+          2623.0000000000005,
+          2056.0
+        ],
+        [
+          2413.0000000000005,
+          2056.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "55617870-00_55_49_536245_WindowsGraphicsCaptureMethod_3840x2160_title_None_Clie_NSeTZ2S_png.rf.5947b06a7caca9b89c2e06ec7ceab8fa.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

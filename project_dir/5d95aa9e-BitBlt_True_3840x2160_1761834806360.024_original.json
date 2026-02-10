@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_chouyuan",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3538.249732526982,
+          438.5286496721845
+        ],
+        [
+          3618.819464918311,
+          438.5286496721845
+        ],
+        [
+          3618.819464918311,
+          513.3020770581279
+        ],
+        [
+          3538.249732526982,
+          513.3020770581279
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "5d95aa9e-BitBlt_True_3840x2160_1761834806360.024_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

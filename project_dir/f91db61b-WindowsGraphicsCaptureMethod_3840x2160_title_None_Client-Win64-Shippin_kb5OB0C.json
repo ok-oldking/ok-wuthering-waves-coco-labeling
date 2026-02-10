@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "camellya_budding",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1588.8735043267982,
+          1997.3498145021958
+        ],
+        [
+          1616.4268666688295,
+          1997.3498145021958
+        ],
+        [
+          1616.4268666688295,
+          2026.539309048744
+        ],
+        [
+          1588.8735043267982,
+          2026.539309048744
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "con_full_ice",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3653.0122449951687,
+          788.7656394259498
+        ],
+        [
+          3675.774233262601,
+          788.7656394259498
+        ],
+        [
+          3675.774233262601,
+          810.3811822495278
+        ],
+        [
+          3653.0122449951687,
+          810.3811822495278
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "lib_ready_ice",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3651.7189987372135,
+          741.9970091526485
+        ],
+        [
+          3677.281457902519,
+          741.9970091526485
+        ],
+        [
+          3677.281457902519,
+          763.3956188057111
+        ],
+        [
+          3651.7189987372135,
+          763.3956188057111
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "f91db61b-WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shippin_kb5OB0C.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

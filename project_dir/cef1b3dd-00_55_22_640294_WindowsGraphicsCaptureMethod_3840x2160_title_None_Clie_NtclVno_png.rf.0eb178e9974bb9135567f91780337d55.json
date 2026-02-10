@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gray_crownless_battle",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          272.0,
+          326.99999999999994
+        ],
+        [
+          380.0,
+          326.99999999999994
+        ],
+        [
+          380.0,
+          434.99999999999994
+        ],
+        [
+          272.0,
+          434.99999999999994
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "cef1b3dd-00_55_22_640294_WindowsGraphicsCaptureMethod_3840x2160_title_None_Clie_NtclVno_png.rf.0eb178e9974bb9135567f91780337d55.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wheel_levitator",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2217.645211930928,
+          1369.921507064364
+        ],
+        [
+          2407.535321821037,
+          1369.921507064364
+        ],
+        [
+          2407.535321821037,
+          1549.6389324960746
+        ],
+        [
+          2217.645211930928,
+          1549.6389324960746
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "93760748-00-33-33.923_Auto_Combat_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

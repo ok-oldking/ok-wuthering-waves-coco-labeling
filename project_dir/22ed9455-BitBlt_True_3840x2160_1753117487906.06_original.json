@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gem_add_stamina",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2173.563579277865,
+          823.9874411302984
+        ],
+        [
+          2353.281004709576,
+          823.9874411302984
+        ],
+        [
+          2353.281004709576,
+          1027.4411302982733
+        ],
+        [
+          2173.563579277865,
+          1027.4411302982733
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "22ed9455-BitBlt_True_3840x2160_1753117487906.06_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

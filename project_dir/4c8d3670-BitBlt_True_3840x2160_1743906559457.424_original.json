@@ -1,0 +1,118 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "star",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          138.72446539368624,
+          186.73766594168492
+        ],
+        [
+          201.25295148298662,
+          186.73766594168492
+        ],
+        [
+          201.25295148298662,
+          246.98823649513807
+        ],
+        [
+          138.72446539368624,
+          246.98823649513807
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_minimap",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          72.39245176718806,
+          56.81296597169967
+        ],
+        [
+          444.74793684666395,
+          56.81296597169967
+        ],
+        [
+          444.74793684666395,
+          426.83892328138194
+        ],
+        [
+          72.39245176718806,
+          426.83892328138194
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_arrow",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          177.62114537444944,
+          152.2466960352424
+        ],
+        [
+          355.24229074889934,
+          152.2466960352424
+        ],
+        [
+          355.24229074889934,
+          323.5242290748903
+        ],
+        [
+          177.62114537444944,
+          323.5242290748903
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "con_havoc",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1465.3744493392057,
+          1977.8298203772229
+        ],
+        [
+          1527.1829346029683,
+          1977.8298203772229
+        ],
+        [
+          1527.1829346029683,
+          2036.2160894702508
+        ],
+        [
+          1465.3744493392057,
+          2036.2160894702508
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "4c8d3670-BitBlt_True_3840x2160_1743906559457.424_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

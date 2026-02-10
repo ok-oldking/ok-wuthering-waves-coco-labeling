@@ -1,0 +1,118 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "set_name_9",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          933.8808903432171,
+          379.11504424778775
+        ],
+        [
+          972.6001751953286,
+          379.11504424778775
+        ],
+        [
+          972.6001751953286,
+          418.69345491907717
+        ],
+        [
+          933.8808903432171,
+          418.69345491907717
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "set_name_10",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          398.2300884955743,
+          379.1746776947346
+        ],
+        [
+          439.64601769911417,
+          379.1746776947346
+        ],
+        [
+          439.64601769911417,
+          419.1826512756131
+        ],
+        [
+          398.2300884955743,
+          419.1826512756131
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "set_name_11",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          665.840707964601,
+          378.6854813381986
+        ],
+        [
+          706.3378779020156,
+          378.6854813381986
+        ],
+        [
+          706.3378779020156,
+          419.1826512756134
+        ],
+        [
+          665.840707964601,
+          419.1826512756134
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "set_name_12",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1201.0619469026528,
+          378.68548133819866
+        ],
+        [
+          1240.6403575739425,
+          378.68548133819866
+        ],
+        [
+          1240.6403575739425,
+          419.1230178286662
+        ],
+        [
+          1201.0619469026528,
+          419.1230178286662
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "ebaa80cf-BitBltCaptureMethod_3840x2160_title_None_Client-Win64-Shipping.exe_384_VcNIKWa.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

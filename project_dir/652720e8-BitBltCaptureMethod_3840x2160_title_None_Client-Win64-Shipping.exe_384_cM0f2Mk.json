@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_roccia",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3549.026548672567,
+          990.7964601769911
+        ],
+        [
+          3638.2300884955753,
+          990.7964601769911
+        ],
+        [
+          3638.2300884955753,
+          1086.3716814159293
+        ],
+        [
+          3549.026548672567,
+          1086.3716814159293
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "652720e8-BitBltCaptureMethod_3840x2160_title_None_Client-Win64-Shipping.exe_384_cM0f2Mk.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

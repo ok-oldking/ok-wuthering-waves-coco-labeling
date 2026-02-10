@@ -1,0 +1,118 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "new_realm_4",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3472.958616685453,
+          1218.3118415189558
+        ],
+        [
+          3506.0088765153982,
+          1218.3118415189558
+        ],
+        [
+          3506.0088765153982,
+          1250.865138889442
+        ],
+        [
+          3472.958616685453,
+          1250.865138889442
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "con_full_havoc",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3652.2097294677606,
+          1052.3579741973572
+        ],
+        [
+          3676.7804190701104,
+          1052.3579741973572
+        ],
+        [
+          3676.7804190701104,
+          1076.0511391710509
+        ],
+        [
+          3652.2097294677606,
+          1076.0511391710509
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "lib_ready_havoc",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3653.0872540964124,
+          1003.2165949926589
+        ],
+        [
+          3677.657943698762,
+          1003.2165949926589
+        ],
+        [
+          3677.657943698762,
+          1028.6648092236633
+        ],
+        [
+          3653.0872540964124,
+          1028.6648092236633
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "con_full_fire",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3653.706347721929,
+          787.7116834947565
+        ],
+        [
+          3678.1172400894006,
+          787.7116834947565
+        ],
+        [
+          3678.1172400894006,
+          810.8377920534132
+        ],
+        [
+          3653.706347721929,
+          810.8377920534132
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "7c5a9030-BitBlt_True_3840x2160_1747931589244.9763_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

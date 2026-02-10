@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gray_combat_count_down",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1747.0,
+          274.0
+        ],
+        [
+          1805.0,
+          274.0
+        ],
+        [
+          1805.0,
+          328.0
+        ],
+        [
+          1747.0,
+          328.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "e521850f-00_37_38_458841_Encore_liberation_0-274_original_png.rf.e7703de2285a6b2c70567e891804c760.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

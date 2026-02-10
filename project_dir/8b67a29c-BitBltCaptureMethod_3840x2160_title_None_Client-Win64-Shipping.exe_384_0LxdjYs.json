@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_carlotta",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3550.518934081346,
+          463.5063113604488
+        ],
+        [
+          3620.1963534361844,
+          463.5063113604488
+        ],
+        [
+          3620.1963534361844,
+          563.4782608695652
+        ],
+        [
+          3550.518934081346,
+          563.4782608695652
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "con_ice",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1464.5523308049683,
+          1975.005647391776
+        ],
+        [
+          1525.987022529342,
+          1975.005647391776
+        ],
+        [
+          1525.987022529342,
+          2033.679229375728
+        ],
+        [
+          1464.5523308049683,
+          2033.679229375728
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "8b67a29c-BitBltCaptureMethod_3840x2160_title_None_Client-Win64-Shipping.exe_384_0LxdjYs.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

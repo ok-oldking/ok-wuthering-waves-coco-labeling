@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_2_lib_check_mark",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3649.0,
+          739.0
+        ],
+        [
+          3677.0,
+          739.0
+        ],
+        [
+          3677.0,
+          762.0
+        ],
+        [
+          3649.0,
+          762.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_1_lib_check_mark",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3650.0000000000005,
+          474.0
+        ],
+        [
+          3677.0000000000005,
+          474.0
+        ],
+        [
+          3677.0000000000005,
+          499.0
+        ],
+        [
+          3650.0000000000005,
+          499.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "3b991d47-10_18_37_465122_WindowsGraphicsCaptureMethod_3840x2160_title_None_Clie_3Hw8AdB_png.rf.7b75bb60b5b041f3c6f36e735ca3bc19.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

@@ -1,0 +1,145 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "forte_cartethyia_space",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2296.0800232642123,
+          1992.4197019159544
+        ],
+        [
+          2360.507024834072,
+          1992.4197019159544
+        ],
+        [
+          2360.507024834072,
+          2017.5824175824196
+        ],
+        [
+          2296.0800232642123,
+          2017.5824175824196
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "forte_cartethyia_sword1",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1694.0093393160369,
+          1980.2825745682871
+        ],
+        [
+          1736.1381475667188,
+          1980.2825745682871
+        ],
+        [
+          1736.1381475667188,
+          2027.7551020408143
+        ],
+        [
+          1694.0093393160369,
+          2027.7551020408143
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "forte_cartethyia_sword2",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1878.5557299842985,
+          1983.6734693877527
+        ],
+        [
+          1925.1049410250307,
+          1983.6734693877527
+        ],
+        [
+          1925.1049410250307,
+          2022.411382818967
+        ],
+        [
+          1878.5557299842985,
+          2022.411382818967
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "forte_cartethyia_sword3",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2068.4458398744055,
+          1980.6911370147857
+        ],
+        [
+          2112.6336640662576,
+          1980.6911370147857
+        ],
+        [
+          2112.6336640662576,
+          2022.517574357751
+        ],
+        [
+          2068.4458398744055,
+          2022.517574357751
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_cartethyia",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3546.875981161697,
+          464.552590266876
+        ],
+        [
+          3638.4301412872856,
+          464.552590266876
+        ],
+        [
+          3638.4301412872856,
+          556.1067503924647
+        ],
+        [
+          3546.875981161697,
+          556.1067503924647
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "8a25918d-BitBlt_True_3840x2160_1749694187287.385_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

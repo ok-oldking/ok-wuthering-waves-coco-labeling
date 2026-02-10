@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "monthly_card",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1555.0000000000002,
+          1549.9999999999998
+        ],
+        [
+          1861.6700000000003,
+          1549.9999999999998
+        ],
+        [
+          1861.6700000000003,
+          1671.6699999999998
+        ],
+        [
+          1555.0000000000002,
+          1671.6699999999998
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shipping-exe_3840x2160_12847792_1_False_original_png.rf.abeaa08198ff5a77fb70340952ba23f3.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

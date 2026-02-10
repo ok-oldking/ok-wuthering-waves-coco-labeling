@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Augusta_lib1",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3584.840032813782,
+          1890.0738310090237
+        ],
+        [
+          3679.343724364233,
+          1890.0738310090237
+        ],
+        [
+          3679.343724364233,
+          1971.9770303527469
+        ],
+        [
+          3584.840032813782,
+          1971.9770303527469
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "Augusta",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3553.7183546125884,
+          464.1231473338357
+        ],
+        [
+          3624.7365737490063,
+          464.1231473338357
+        ],
+        [
+          3624.7365737490063,
+          528.9397717353529
+        ],
+        [
+          3553.7183546125884,
+          528.9397717353529
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "40f5b3fc-AD0758D4E03E69E4C4B0A6746CAA05B8.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

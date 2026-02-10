@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_shorekeeper",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3543.2132363735222,
+          990.8179966987582
+        ],
+        [
+          3637.297447915987,
+          990.8179966987582
+        ],
+        [
+          3637.297447915987,
+          1071.3540817791088
+        ],
+        [
+          3543.2132363735222,
+          1071.3540817791088
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "multiplayer_world_mark",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          76.77271661865221,
+          69.24597969525493
+        ],
+        [
+          102.36362215820293,
+          69.24597969525493
+        ],
+        [
+          102.36362215820293,
+          94.08421154246594
+        ],
+        [
+          76.77271661865221,
+          94.08421154246594
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "664081ea-WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shippin_HFdZtL0.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "boss_proceed",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1819.9999999999998,
+          227.0
+        ],
+        [
+          1854.9999999999998,
+          227.0
+        ],
+        [
+          1854.9999999999998,
+          317.71
+        ],
+        [
+          1819.9999999999998,
+          317.71
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "gray_book_boss_highlight",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          36.0,
+          273.0
+        ],
+        [
+          114.57,
+          273.0
+        ],
+        [
+          114.57,
+          351.57
+        ],
+        [
+          36.0,
+          351.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_1920x1080_title_None_Client-Win64-Shipping-exe_1920x1080_329010_1_False_original_png.rf.b6f619b8fe6f0e1e8a0993a5e61e2801.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "box_target_enemy_long",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2668.154224774405,
+          1899.5242001640688
+        ],
+        [
+          2746.9073010664474,
+          1899.5242001640688
+        ],
+        [
+          2746.9073010664474,
+          1987.7276456111565
+        ],
+        [
+          2668.154224774405,
+          1987.7276456111565
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_target_enemy_long_inner",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2690.8333740153525,
+          1934.1733829297546
+        ],
+        [
+          2724.6184584589346,
+          1934.1733829297546
+        ],
+        [
+          2724.6184584589346,
+          1960.8458180167913
+        ],
+        [
+          2690.8333740153525,
+          1960.8458180167913
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "c4bcbbcf-BitBlt_True_3840x2160_1759986985843.6372_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

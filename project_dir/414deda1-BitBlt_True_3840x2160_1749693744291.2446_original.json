@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_changli2",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3539.373035296517,
+          455.11809305568465
+        ],
+        [
+          3611.2916815296226,
+          455.11809305568465
+        ],
+        [
+          3611.2916815296226,
+          521.6030408017763
+        ],
+        [
+          3539.373035296517,
+          521.6030408017763
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "414deda1-BitBlt_True_3840x2160_1749693744291.2446_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

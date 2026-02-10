@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ww",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          789.7797356828196,
+          245.81497797356806
+        ],
+        [
+          1168.8105726872247,
+          245.81497797356806
+        ],
+        [
+          1168.8105726872247,
+          540.7929515418497
+        ],
+        [
+          789.7797356828196,
+          540.7929515418497
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "702b5bf9-08-13-32.406_yolo_echo_start_original.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

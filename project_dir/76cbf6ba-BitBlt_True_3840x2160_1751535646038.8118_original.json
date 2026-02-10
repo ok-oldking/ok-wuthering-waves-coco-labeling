@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "lupa_wolf_icon2",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2034.3873276275706,
+          1969.6611979533575
+        ],
+        [
+          2082.30854725663,
+          1969.6611979533575
+        ],
+        [
+          2082.30854725663,
+          2012.3297636891105
+        ],
+        [
+          2034.3873276275706,
+          2012.3297636891105
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "lupa_wolf_icon1",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1746.0117039207607,
+          1970.8912055946298
+        ],
+        [
+          1790.990720886882,
+          1970.8912055946298
+        ],
+        [
+          1790.990720886882,
+          2013.2606432260288
+        ],
+        [
+          1746.0117039207607,
+          2013.2606432260288
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_lupa",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3546.8759811617174,
+          449.9267801711055
+        ],
+        [
+          3622.2109849646677,
+          449.9267801711055
+        ],
+        [
+          3622.2109849646677,
+          533.677823399008
+        ],
+        [
+          3546.8759811617174,
+          533.677823399008
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "76cbf6ba-BitBlt_True_3840x2160_1751535646038.8118_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

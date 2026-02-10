@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_phoebe",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3542.9074889867848,
+          472.5991189427313
+        ],
+        [
+          3631.7180616740093,
+          472.5991189427313
+        ],
+        [
+          3631.7180616740093,
+          558.2378854625551
+        ],
+        [
+          3542.9074889867848,
+          558.2378854625551
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "con_spectro",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1465.374449339208,
+          1974.583104288798
+        ],
+        [
+          1526.3648355208004,
+          1974.583104288798
+        ],
+        [
+          1526.3648355208004,
+          2038.248497055556
+        ],
+        [
+          1465.374449339208,
+          2038.248497055556
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "f",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2444.8351648351645,
+          1090.3065378432257
+        ],
+        [
+          2475.4424538002463,
+          1090.3065378432257
+        ],
+        [
+          2475.4424538002463,
+          1129.1679748822603
+        ],
+        [
+          2444.8351648351645,
+          1129.1679748822603
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "af6ef772-BitBltCaptureMethod_3840x2160_title_None_Client-Win64-Shipping.exe_384_bhpfwc2.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

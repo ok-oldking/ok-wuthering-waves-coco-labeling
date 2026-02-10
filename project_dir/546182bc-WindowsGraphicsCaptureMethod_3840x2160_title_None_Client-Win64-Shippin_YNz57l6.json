@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "skip_quest_confirm",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2296.991150442478,
+          1462.3008849557525
+        ],
+        [
+          2402.1238938053098,
+          1462.3008849557525
+        ],
+        [
+          2402.1238938053098,
+          1586.548672566372
+        ],
+        [
+          2296.991150442478,
+          1586.548672566372
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "546182bc-WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shippin_YNz57l6.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

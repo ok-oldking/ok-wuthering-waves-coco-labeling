@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "boss_break_shield",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1203.347005742412,
+          94.50369155045118
+        ],
+        [
+          1256.899097621001,
+          94.50369155045118
+        ],
+        [
+          1256.899097621001,
+          154.35602953240362
+        ],
+        [
+          1203.347005742412,
+          154.35602953240362
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "f_break",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1694.2727984460853,
+          1514.4880824141335
+        ],
+        [
+          1730.1386608180378,
+          1514.4880824141335
+        ],
+        [
+          1730.1386608180378,
+          1557.1095950616395
+        ],
+        [
+          1694.2727984460853,
+          1557.1095950616395
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "30811235-Windows_Graphics_Capture_3840x2160_1766756085539.751_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

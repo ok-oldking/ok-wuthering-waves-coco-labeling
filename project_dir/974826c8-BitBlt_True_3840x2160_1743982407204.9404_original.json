@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "teleport_port",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1826.9603524229085,
+          1154.5374449339201
+        ],
+        [
+          1903.083700440529,
+          1154.5374449339201
+        ],
+        [
+          1903.083700440529,
+          1211.6299559471368
+        ],
+        [
+          1826.9603524229085,
+          1211.6299559471368
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "big_map_star",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          764.4155706156082,
+          1022.3227947162226
+        ],
+        [
+          824.1591996182182,
+          1022.3227947162226
+        ],
+        [
+          824.1591996182182,
+          1078.579696388942
+        ],
+        [
+          764.4155706156082,
+          1078.579696388942
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "974826c8-BitBlt_True_3840x2160_1743982407204.9404_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

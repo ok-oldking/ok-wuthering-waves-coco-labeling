@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_baizhi",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3557.0,
+          991.0000000000001
+        ],
+        [
+          3620.33,
+          991.0000000000001
+        ],
+        [
+          3620.33,
+          1049.3300000000002
+        ],
+        [
+          3557.0,
+          1049.3300000000002
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_calcharo",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3549.9999999999995,
+          733.0
+        ],
+        [
+          3628.3299999999995,
+          733.0
+        ],
+        [
+          3628.3299999999995,
+          785.67
+        ],
+        [
+          3549.9999999999995,
+          785.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_jiyan",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3538.0,
+          456.0
+        ],
+        [
+          3592.0,
+          456.0
+        ],
+        [
+          3592.0,
+          517.33
+        ],
+        [
+          3538.0,
+          517.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shipping-exe_3840x2160_7476412_1_False_original_png.rf.a21fbbbefc2fa48f56917d19a6a443b2.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

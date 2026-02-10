@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "levitator_roccia",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3012.1474060036976,
+          1884.5193687053356
+        ],
+        [
+          3099.234831380722,
+          1884.5193687053356
+        ],
+        [
+          3099.234831380722,
+          1980.4932660596087
+        ],
+        [
+          3012.1474060036976,
+          1980.4932660596087
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "d5301730-BitBlt_True_3840x2160_1759993845114.7556_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

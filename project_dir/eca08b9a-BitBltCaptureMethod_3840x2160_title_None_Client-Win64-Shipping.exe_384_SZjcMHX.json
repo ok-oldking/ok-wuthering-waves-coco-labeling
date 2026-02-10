@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_sanhua2",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3534.614939067795,
+          985.7056490606998
+        ],
+        [
+          3619.0308370044067,
+          985.7056490606998
+        ],
+        [
+          3619.0308370044067,
+          1050.0971108284316
+        ],
+        [
+          3534.614939067795,
+          1050.0971108284316
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "eca08b9a-BitBltCaptureMethod_3840x2160_title_None_Client-Win64-Shipping.exe_384_SZjcMHX.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "treasure_icon",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2926.7772973706797,
+          974.5442885324425
+        ],
+        [
+          2982.697490067394,
+          974.5442885324425
+        ],
+        [
+          2982.697490067394,
+          1020.1218931925952
+        ],
+        [
+          2926.7772973706797,
+          1020.1218931925952
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "d1ccfaa5-BitBltCaptureMethod_3840x2160_title_None_Client-Win64-Shipping.exe_384_55DBzu2.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

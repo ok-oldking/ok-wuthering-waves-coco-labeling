@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gray_confirm_exit_button",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2805.0,
+          1225.0
+        ],
+        [
+          2970.0,
+          1225.0
+        ],
+        [
+          2970.0,
+          1492.0
+        ],
+        [
+          2805.0,
+          1492.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "cancel_button_hcenter_vcenter",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          890.0000000000001,
+          1243.0
+        ],
+        [
+          965.0000000000001,
+          1243.0
+        ],
+        [
+          965.0000000000001,
+          1454.67
+        ],
+        [
+          890.0000000000001,
+          1454.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "64425cad-10_44_19_536997_WindowsGraphicsCaptureMethod_0x0_title_None_Client-Win_BLAxtp1_png.rf.312c7038c189f7e1f19aad748fcca173.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

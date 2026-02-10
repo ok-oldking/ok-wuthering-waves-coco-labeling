@@ -1,0 +1,118 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "btn_dialog_3dots",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2523.0,
+          1221.0
+        ],
+        [
+          2624.0,
+          1221.0
+        ],
+        [
+          2624.0,
+          1303.0
+        ],
+        [
+          2523.0,
+          1303.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "btn_dialog_arrow",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2525.0000000000005,
+          1384.0
+        ],
+        [
+          2629.0000000000005,
+          1384.0
+        ],
+        [
+          2629.0000000000005,
+          1465.0
+        ],
+        [
+          2525.0000000000005,
+          1465.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "btn_auto_play_dialog",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3381.0,
+          107.00000000000001
+        ],
+        [
+          3439.0,
+          107.00000000000001
+        ],
+        [
+          3439.0,
+          153.0
+        ],
+        [
+          3381.0,
+          153.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "btn_dialog_eye",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3564.9999999999995,
+          110.99999999999999
+        ],
+        [
+          3627.9999999999995,
+          110.99999999999999
+        ],
+        [
+          3627.9999999999995,
+          149.0
+        ],
+        [
+          3564.9999999999995,
+          149.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "5841f84c-17_04_26_738022_WindowsGraphicsCaptureMethod_3840x2160_title_None_Clie_TIDxIl1_png.rf.97a22c8e01f1fd88debc20c4c903b8b9.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

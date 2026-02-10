@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_danjin",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3549.0,
+          471.0
+        ],
+        [
+          3618.01,
+          471.0
+        ],
+        [
+          3618.01,
+          522.99
+        ],
+        [
+          3549.0,
+          522.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_mortefi",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3549.9999999999995,
+          732.0000000000001
+        ],
+        [
+          3614.2799999999997,
+          732.0000000000001
+        ],
+        [
+          3614.2799999999997,
+          790.6100000000001
+        ],
+        [
+          3549.9999999999995,
+          790.6100000000001
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_chixia",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3554.0,
+          998.0
+        ],
+        [
+          3611.66,
+          998.0
+        ],
+        [
+          3611.66,
+          1049.99
+        ],
+        [
+          3554.0,
+          1049.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_0x0_title_None_Client-Win64-Shipping-exe_3840x2160_133336_1_False_original_png.rf.e323ab2d375fd6a7508f12a1d42468ed.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

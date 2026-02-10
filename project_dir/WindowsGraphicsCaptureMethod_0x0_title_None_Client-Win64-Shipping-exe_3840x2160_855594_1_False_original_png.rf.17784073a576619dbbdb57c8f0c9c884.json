@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "data_merge_hcenter_vcenter",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1978.0000000000002,
+          366.00000000000006
+        ],
+        [
+          2093.0000000000005,
+          366.00000000000006
+        ],
+        [
+          2093.0000000000005,
+          486.34000000000003
+        ],
+        [
+          1978.0000000000002,
+          486.34000000000003
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_0x0_title_None_Client-Win64-Shipping-exe_3840x2160_855594_1_False_original_png.rf.17784073a576619dbbdb57c8f0c9c884.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

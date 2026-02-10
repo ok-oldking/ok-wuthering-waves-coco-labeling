@@ -1,0 +1,37 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_xiangliyao",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3548.0,
+          453.0
+        ],
+        [
+          3622.15,
+          453.0
+        ],
+        [
+          3622.15,
+          528.61
+        ],
+        [
+          3548.0,
+          528.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_3840x2160_title_None_Client-Win64-Shipping-exe_3840x2160_2560312_1_False_1725946389099-5862_original_png.rf.6d2e51d134bec2d758acafffcd997218.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

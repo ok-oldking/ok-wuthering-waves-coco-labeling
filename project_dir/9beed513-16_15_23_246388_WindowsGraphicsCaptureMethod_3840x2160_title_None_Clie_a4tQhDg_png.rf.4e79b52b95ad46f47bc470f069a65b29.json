@@ -1,0 +1,118 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "char_2_text",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3473.0,
+          690.0
+        ],
+        [
+          3501.0,
+          690.0
+        ],
+        [
+          3501.0,
+          721.0
+        ],
+        [
+          3473.0,
+          721.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_3_text",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3474.0,
+          954.0
+        ],
+        [
+          3501.0,
+          954.0
+        ],
+        [
+          3501.0,
+          986.0
+        ],
+        [
+          3474.0,
+          986.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "char_3_lib_check_mark",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3649.0,
+          1005.0
+        ],
+        [
+          3677.0,
+          1005.0
+        ],
+        [
+          3677.0,
+          1026.0
+        ],
+        [
+          3649.0,
+          1026.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "con_electric",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1465.374449339207,
+          1972.863436123348
+        ],
+        [
+          1525.6387665198238,
+          1972.863436123348
+        ],
+        [
+          1525.6387665198238,
+          2036.2995594713657
+        ],
+        [
+          1465.374449339207,
+          2036.2995594713657
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "9beed513-16_15_23_246388_WindowsGraphicsCaptureMethod_3840x2160_title_None_Clie_a4tQhDg_png.rf.4e79b52b95ad46f47bc470f069a65b29.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

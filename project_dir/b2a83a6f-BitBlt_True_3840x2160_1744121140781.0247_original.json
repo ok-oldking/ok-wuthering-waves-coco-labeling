@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "big_map_skull",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1915.7709251101323,
+          900.5131503634728
+        ],
+        [
+          2011.935745324897,
+          900.5131503634728
+        ],
+        [
+          2011.935745324897,
+          976.0455649559199
+        ],
+        [
+          1915.7709251101323,
+          976.0455649559199
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "big_map_diamond",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1877.5285810006787,
+          1046.1437210432755
+        ],
+        [
+          1961.411301997905,
+          1046.1437210432755
+        ],
+        [
+          1961.411301997905,
+          1117.98400124642
+        ],
+        [
+          1877.5285810006787,
+          1117.98400124642
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "b2a83a6f-BitBlt_True_3840x2160_1744121140781.0247_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

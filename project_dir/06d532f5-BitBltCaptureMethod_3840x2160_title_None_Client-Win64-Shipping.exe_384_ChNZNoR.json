@@ -1,0 +1,91 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "box_forte_1",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1692.8838081544984,
+          1993.2451931982803
+        ],
+        [
+          1727.2454047075798,
+          1993.2451931982803
+        ],
+        [
+          1727.2454047075798,
+          2023.564248980411
+        ],
+        [
+          1692.8838081544984,
+          2023.564248980411
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_forte_2",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          1887.9364003528733,
+          1991.2239228128049
+        ],
+        [
+          1923.3086320986924,
+          1991.2239228128049
+        ],
+        [
+          1923.3086320986924,
+          2019.5217082094603
+        ],
+        [
+          1887.9364003528733,
+          2019.5217082094603
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "box_forte_3",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2071.872005431134,
+          1991.2239228128049
+        ],
+        [
+          2108.2548723696905,
+          1991.2239228128049
+        ],
+        [
+          2108.2548723696905,
+          2022.5536137876732
+        ],
+        [
+          2071.872005431134,
+          2022.5536137876732
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "06d532f5-BitBltCaptureMethod_3840x2160_title_None_Client-Win64-Shipping.exe_384_ChNZNoR.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

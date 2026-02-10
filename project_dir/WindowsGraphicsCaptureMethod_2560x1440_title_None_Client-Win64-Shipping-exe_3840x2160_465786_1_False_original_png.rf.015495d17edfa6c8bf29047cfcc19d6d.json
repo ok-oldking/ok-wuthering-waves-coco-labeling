@@ -1,0 +1,64 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chang_changli",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3537.0,
+          723.0
+        ],
+        [
+          3605.85,
+          723.0
+        ],
+        [
+          3605.85,
+          788.0
+        ],
+        [
+          3537.0,
+          788.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    },
+    {
+      "label": "world_earth_icon",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          26.077989771580377,
+          97.07336742806572
+        ],
+        [
+          99.15135719964604,
+          97.07336742806572
+        ],
+        [
+          99.15135719964604,
+          138.00000000000006
+        ],
+        [
+          26.077989771580377,
+          138.00000000000006
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "WindowsGraphicsCaptureMethod_2560x1440_title_None_Client-Win64-Shipping-exe_3840x2160_465786_1_False_original_png.rf.015495d17edfa6c8bf29047cfcc19d6d.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}
