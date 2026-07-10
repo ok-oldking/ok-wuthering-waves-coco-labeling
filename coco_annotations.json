@@ -1319,6 +1319,11 @@
       "id": 261,
       "name": "claim_stamina_sign",
       "supercategory": ""
+    },
+    {
+      "id": 262,
+      "name": "pre",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -5585,6 +5590,45 @@
       "segmentation": []
     },
     {
+      "id": 150,
+      "image_id": 224,
+      "category_id": 97,
+      "bbox": [
+        3547,
+        450,
+        91,
+        101
+      ],
+      "area": 9191,
+      "iscrowd": 0
+    },
+    {
+      "id": 151,
+      "image_id": 224,
+      "category_id": 127,
+      "bbox": [
+        2279,
+        1994,
+        22,
+        24
+      ],
+      "area": 528,
+      "iscrowd": 0
+    },
+    {
+      "id": 152,
+      "image_id": 224,
+      "category_id": 262,
+      "bbox": [
+        1879,
+        1910,
+        47,
+        43
+      ],
+      "area": 2021,
+      "iscrowd": 0
+    },
+    {
       "id": 154,
       "image_id": 78,
       "category_id": 62,
@@ -7218,32 +7262,6 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
-    },
-    {
-      "id": 435,
-      "image_id": 224,
-      "category_id": 97,
-      "bbox": [
-        3547,
-        450,
-        91,
-        101
-      ],
-      "area": 9191,
-      "iscrowd": 0
-    },
-    {
-      "id": 436,
-      "image_id": 224,
-      "category_id": 127,
-      "bbox": [
-        2279,
-        1994,
-        22,
-        24
-      ],
-      "area": 528,
-      "iscrowd": 0
     }
   ]
 }
