@@ -2285,6 +2285,78 @@
       "file_name": "60.png",
       "width": 3840,
       "height": 2160
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "yangyang_sp_attack_feather.png",
+      "height": 2159,
+      "width": 3840,
+      "date_captured": null,
+      "id": 296
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "yangyang_sp_attack_sword.png",
+      "height": 2159,
+      "width": 3840,
+      "date_captured": null,
+      "id": 297
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "yangyang_sp_e_crescent.png",
+      "height": 2159,
+      "width": 3840,
+      "date_captured": null,
+      "id": 298
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "yangyang_sp_e_feather.png",
+      "height": 2159,
+      "width": 3840,
+      "date_captured": null,
+      "id": 299
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "yangyang_sp_heavy_air.png",
+      "height": 2159,
+      "width": 3840,
+      "date_captured": null,
+      "id": 300
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "yangyang_sp_heavy_azure.png",
+      "height": 2159,
+      "width": 3840,
+      "date_captured": null,
+      "id": 301
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "yangyang_sp_heavy_followup.png",
+      "height": 2159,
+      "width": 3840,
+      "date_captured": null,
+      "id": 302
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "yangyang_sp_liberation.png",
+      "height": 2159,
+      "width": 3840,
+      "date_captured": null,
+      "id": 303
     }
   ],
   "annotations": [
@@ -6361,6 +6433,126 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 440,
+      "image_id": 296,
+      "category_id": 288,
+      "bbox": [
+        2800,
+        1872,
+        130,
+        130
+      ],
+      "area": 16900,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "id": 441,
+      "image_id": 297,
+      "category_id": 287,
+      "bbox": [
+        2800,
+        1872,
+        130,
+        130
+      ],
+      "area": 16900,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "id": 442,
+      "image_id": 298,
+      "category_id": 289,
+      "bbox": [
+        3180,
+        1872,
+        130,
+        130
+      ],
+      "area": 16900,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "id": 443,
+      "image_id": 299,
+      "category_id": 290,
+      "bbox": [
+        3180,
+        1872,
+        130,
+        130
+      ],
+      "area": 16900,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "id": 444,
+      "image_id": 300,
+      "category_id": 292,
+      "bbox": [
+        2800,
+        1872,
+        130,
+        130
+      ],
+      "area": 16900,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "id": 445,
+      "image_id": 301,
+      "category_id": 291,
+      "bbox": [
+        2800,
+        1872,
+        130,
+        130
+      ],
+      "area": 16900,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "id": 446,
+      "image_id": 302,
+      "category_id": 293,
+      "bbox": [
+        2800,
+        1872,
+        130,
+        130
+      ],
+      "area": 16900,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "id": 447,
+      "image_id": 303,
+      "category_id": 294,
+      "bbox": [
+        3562,
+        1872,
+        130,
+        130
+      ],
+      "area": 16900,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
     }
   ],
   "categories": [
@@ -7792,6 +7984,46 @@
     {
       "id": 286,
       "name": "hsin_lib2",
+      "supercategory": ""
+    },
+    {
+      "id": 287,
+      "name": "yangyang_sp_attack_sword",
+      "supercategory": ""
+    },
+    {
+      "id": 288,
+      "name": "yangyang_sp_attack_feather",
+      "supercategory": ""
+    },
+    {
+      "id": 289,
+      "name": "yangyang_sp_e_crescent",
+      "supercategory": ""
+    },
+    {
+      "id": 290,
+      "name": "yangyang_sp_e_feather",
+      "supercategory": ""
+    },
+    {
+      "id": 291,
+      "name": "yangyang_sp_heavy_azure",
+      "supercategory": ""
+    },
+    {
+      "id": 292,
+      "name": "yangyang_sp_heavy_air",
+      "supercategory": ""
+    },
+    {
+      "id": 293,
+      "name": "yangyang_sp_heavy_followup",
+      "supercategory": ""
+    },
+    {
+      "id": 294,
+      "name": "yangyang_sp_liberation",
       "supercategory": ""
     }
   ]

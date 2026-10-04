@@ -1,0 +1,38 @@
+{
+  "version": "4.1.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "yangyang_sp_liberation",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3562,
+          1872
+        ],
+        [
+          3692,
+          1872
+        ],
+        [
+          3692,
+          2002
+        ],
+        [
+          3562,
+          2002
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "yangyang_sp_liberation.png",
+  "imageData": null,
+  "imageHeight": 2159,
+  "imageWidth": 3840
+}

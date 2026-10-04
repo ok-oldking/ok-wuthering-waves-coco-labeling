@@ -1,0 +1,38 @@
+{
+  "version": "4.1.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "yangyang_sp_e_feather",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          3180,
+          1872
+        ],
+        [
+          3310,
+          1872
+        ],
+        [
+          3310,
+          2002
+        ],
+        [
+          3180,
+          2002
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "yangyang_sp_e_feather.png",
+  "imageData": null,
+  "imageHeight": 2159,
+  "imageWidth": 3840
+}

@@ -1,0 +1,38 @@
+{
+  "version": "4.1.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "yangyang_sp_heavy_azure",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          2800,
+          1872
+        ],
+        [
+          2930,
+          1872
+        ],
+        [
+          2930,
+          2002
+        ],
+        [
+          2800,
+          2002
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "yangyang_sp_heavy_azure.png",
+  "imageData": null,
+  "imageHeight": 2159,
+  "imageWidth": 3840
+}
