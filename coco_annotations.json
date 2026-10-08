@@ -2291,6 +2291,12 @@
       "file_name": "60.png",
       "width": 3840,
       "height": 2160
+    },
+    {
+      "id": 296,
+      "file_name": "douling_gua.png",
+      "width": 3840,
+      "height": 2160
     }
   ],
   "annotations": [
@@ -6380,6 +6386,36 @@
       ],
       "area": 3224,
       "iscrowd": 0
+    },
+    {
+      "id": 441,
+      "image_id": 296,
+      "category_id": 288,
+      "bbox": [
+        1934,
+        1788,
+        62,
+        68
+      ],
+      "area": 4216,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "id": 442,
+      "image_id": 296,
+      "category_id": 289,
+      "bbox": [
+        1805,
+        1788,
+        62,
+        68
+      ],
+      "area": 4216,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
     }
   ],
   "categories": [
@@ -7816,6 +7852,16 @@
     {
       "id": 287,
       "name": "char_lingyang",
+      "supercategory": ""
+    },
+    {
+      "id": 288,
+      "name": "douling_gen",
+      "supercategory": ""
+    },
+    {
+      "id": 289,
+      "name": "douling_zhen",
       "supercategory": ""
     }
   ]
